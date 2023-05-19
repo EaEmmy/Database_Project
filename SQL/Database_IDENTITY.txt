@@ -1,0 +1,5 @@
+IDENTITY cannot be used with VARCHAR or CHAR or NUMERIC
+
+SEQUENCE 
+
+INDEX doesn't support NULL VALUES 
